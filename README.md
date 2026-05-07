@@ -23,15 +23,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Deziderio55&show_icons=true&theme=dark&locale=pt-br" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deziderio55&layout=compact&theme=dark&locale=pt-br" />
-</div>
-
----
-
 ## 📌 Projetos em destaque
 
 - 🃏 **[Jogos-de-Adivinhacao](https://github.com/Deziderio55/Jogos-de-Adivinhacao)** — Jogo de adivinhação de cartas Magic: The Gathering usando a API Scryfall
