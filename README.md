@@ -5,7 +5,7 @@
 ---
 
 🎓 Cursando **Ciências da Computação**  
-💻 Apaixonado por desenvolvimento de software e análise de dados  
+💻 Curioso por desenvolvimento de software e Cybersegurança 
 🔍 Em busca de oportunidade de **estágio** na área de tecnologia  
 📚 Atualmente aprofundando conhecimentos em **algoritmos e estruturas de dados**
 
