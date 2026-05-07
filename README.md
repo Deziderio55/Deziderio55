@@ -1,5 +1,8 @@
 # Olá, eu sou o Mateus 👋
 
+<img width="498" height="498" alt="toph-toph-beifong" src="https://github.com/user-attachments/assets/b5962369-b764-4b63-94b6-1fca1929f6b9" />
+
+
 **Estudante de Ciências da Computação · São Paulo, BR**
 
 ---
