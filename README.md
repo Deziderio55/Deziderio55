@@ -9,6 +9,7 @@
 
 🎓 Cursando **Ciências da Computação**  
 💻 Curioso por desenvolvimento de software e Cybersegurança
+
 🔍 Em busca de oportunidade de **estágio** na área de tecnologia  
 📚 Atualmente aprofundando conhecimentos em **algoritmos e estruturas de dados**
 
